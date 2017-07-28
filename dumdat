@@ -1,0 +1,48 @@
+{
+  "page": 1,
+  "per_page": 3,
+  "total": 12,
+  "total_pages": 4,
+  "data": [
+    {
+      "id": 1,
+      "name_costumer": "Sample Customer A",
+      "type_alat": "Type Alat A",
+      "sn": "123123",
+      "status" :"Open",
+      "level": "level A"
+    },
+    {
+      "id": 2,
+      "name_costumer": "Sample Customer B",
+      "type_alat": "Type Alat B",
+      "sn": "123123",
+      "status" :"confirm",
+      "level": "level B"
+    },
+    {
+      "id": 3,
+      "name_costumer": "Sample Customer C",
+      "type_alat": "Type Alat C",
+      "sn": "123123",
+      "status" :"onprogress",
+      "level": "level C"
+    },
+    {
+      "id": 4,
+      "name_costumer": "Sample Customer D",
+      "type_alat": "Type Alat D",
+      "sn": "123123",
+      "status" :"onhold",
+      "level": "level D"
+    },
+    {
+      "id": 5,
+      "name_costumer": "Sample Customer E",
+      "type_alat": "Type Alat E",
+      "sn": "123123",
+      "status" :"ended",
+      "level": "level E"
+    }
+  ]
+}
