@@ -1,7 +1,7 @@
 {
     "tikets":[
         {
-            "id": "0",
+            "id": 0,
             "nama_customer": "Sample Name",
             "type_alat": "Type A",
             "sn_alat": "SN123",
@@ -11,7 +11,7 @@
             "status": "open"
         },
         {
-            "id": "1",
+            "id": 1,
             "nama_customer": "Sample Name",
             "type_alat": "Type A",
             "sn_alat": "SN123",
@@ -21,7 +21,7 @@
             "status": "Confirm"
         },
         {
-            "id": "2",
+              "id": 2,
             "nama_customer": "Sample Name",
             "type_alat": "Type A",
             "sn_alat": "SN123",
@@ -31,7 +31,7 @@
             "status": "On Progress"
         },
         {
-            "id": "3",
+             "id": 3,
             "nama_customer": "Sample Name",
             "type_alat": "Type A",
             "sn_alat": "SN123",
@@ -41,7 +41,7 @@
             "status": "On Hold"
         },
         {
-            "id": "4",
+              "id": 4,
             "nama_customer": "Sample Name",
             "type_alat": "Type A",
             "sn_alat": "SN123",
@@ -53,93 +53,93 @@
     ] ,
     "kode_kegiatan":[
         {
-            "id": "0",
+              "id": 0,
             "kegiatan": "Repaire"
             
         },
         {
-            "id": "1",
+              "id": 1,
             "kegiatan": "Re-occurence"
         },
         {
-            "id": "2",
+              "id": 2,
             "kegiatan": "Repaire Followup"
         },
         {
-            "id": "3",
+             "id": 3,
             "kegiatan": "Phone Fix"
         },
         {
-            "id": "4",
+              "id": 4,
             "kegiatan": "On Job Training"
         }
     ] ,
     "sn_alat":[
         {
-            "id": "0",
+              "id": 0,
             "sn": "SN123"
             
         },
         {
-            "id": "1",
+             "id": 1,
             "sn": "SN456"
         },
         {
-            "id": "2",
+              "id": 2,
             "sn": "SN789"
         },
         {
-            "id": "3",
+              "id": 3,
             "sn": "SN321"
         },
         {
-            "id": "4",
+              "id": 4,
             "sn": "SN654"
         }
     ],
       "engginer":[
         {
-            "id": "0",
+              "id": 0,
             "name": "Enginer 1"
             
         },
         {
-            "id": "1",
-         "name": "Enginer 2"
+              "id": 1,
+                "name": "Enginer 2"
         },
         {
-            "id": "2",
+             "id": 2,
              "name": "Enginer 3"
         },
         {
-            "id": "3",
+            "id": 3,
              "name": "Enginer 4"
         },
         {
-            "id": "4",
+              "id": 4,
              "name": "Enginer 5"
         }
     ],
       "prioritys":[
         {
-            "id": "0",
+            "id": 0,
             "priority": "low"
             
         },
         {
-            "id": "1",
+              "id": 1,
          "priority": "midle"
         },
         {
-            "id": "2",
+              "id": 2,
              "priority": "high"
         },
         {
-            "id": "3",
+            "id": 3,
              "priority": "very high"
         },
         {
-            "id": "4",
+              "id": 4,
              "priority": "super high"
         }
     ]  
