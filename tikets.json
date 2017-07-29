@@ -2,53 +2,53 @@
     "tikets":[
         {
             "id": 0,
-            "nama_customer": "Sample Name",
+            "nama_customer": "Sample Name 1",
             "type_alat": "Type A",
             "sn_alat": "SN123",
             "date": "01/01/2017",
-            "urgency_level": "low",
+            "urgency_level": "Low",
             "descripsiton": "This is just sample descripsion just for prototype purpose",
             "status": "open"
         },
         {
             "id": 1,
-            "nama_customer": "Sample Name",
-            "type_alat": "Type A",
-            "sn_alat": "SN123",
+            "nama_customer": "Sample Name 2",
+            "type_alat": "Type B",
+            "sn_alat": "SN456",
             "date": "01/01/2017",
-            "urgency_level": "midle",
+            "urgency_level": "Midle",
             "descripsiton": "This is just sample descripsion just for prototype purpose",
             "status": "Confirm"
         },
         {
               "id": 2,
-            "nama_customer": "Sample Name",
-            "type_alat": "Type A",
-            "sn_alat": "SN123",
+            "nama_customer": "Sample Name 3",
+            "type_alat": "Type C",
+            "sn_alat": "SN789",
             "date": "01/01/2017",
-            "urgency_level": "high",
+            "urgency_level": "High",
             "descripsiton": "This is just sample descripsion just for prototype purpose",
             "status": "On Progress"
         },
         {
              "id": 3,
-            "nama_customer": "Sample Name",
-            "type_alat": "Type A",
-            "sn_alat": "SN123",
+            "nama_customer": "Sample Name 4",
+            "type_alat": "Type D",
+            "sn_alat": "SN987",
             "date": "01/01/2017",
-            "urgency_level": "very high",
+            "urgency_level": "Very High",
             "descripsiton": "This is just sample descripsion just for prototype purpose",
             "status": "On Hold"
         },
         {
               "id": 4,
-            "nama_customer": "Sample Name",
+            "nama_customer": "Sample Name 6",
             "type_alat": "Type A",
             "sn_alat": "SN123",
             "date": "01/01/2017",
-            "urgency_level": "low",
+            "urgency_level": "Super High",
             "descripsiton": "This is just sample descripsion just for prototype purpose",
-            "status": "super high"
+            "status": "Ended"
         }
     ] ,
     "kode_kegiatan":[
