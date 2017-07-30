@@ -41,7 +41,7 @@
             "status": "On Hold"
         },
         {
-              "id": 4,
+            "id": 4,
             "nama_customer": "Sample Name 6",
             "type_alat": "Type A",
             "sn_alat": "SN123",
@@ -142,6 +142,80 @@
               "id": 4,
              "priority": "super high"
         }
-    ]  
+    ],
+      "shi":[
+        {
+            "id": 0,
+            "shi": "Software"
+            
+        },
+        {
+            "id": 1,
+            "shi": "Hardware"
+        },
+        {
+            "id": 2,
+            "shi": "Interface"
+        }
+    ],
+      "projects":[
+        {
+            "id": 0,
+            "nama_customer": "Nama Customer 01",
+            "nama_project": "Project 01",
+            "list_kegiatan": [
+                        {
+                            "id": 0,
+                            "kegiatan": "Kegiatan 01"
+                        },
+                        {
+                            "id": 1,
+                            "kegiatan": "Kegiatan 01"
+                        },
+                        {
+                            "id": 2,
+                            "kegiatan": "Kegiatan 01"
+                        } 
+                            ]            
+        },
+        {
+            "id": 1,
+            "nama_customer": "Nama Customer 01",
+            "nama_project": "Project 01",
+            "list_kegiatan": [
+                        {
+                            "id": 0,
+                            "kegiatan": "Kegiatan 01"
+                        },
+                        {
+                            "id": 1,
+                            "kegiatan": "Kegiatan 01"
+                        },
+                        {
+                            "id": 2,
+                            "kegiatan": "Kegiatan 01"
+                        } 
+                            ] 
+        },
+        {
+            "id": 2,
+            "nama_customer": "Nama Customer 01",
+            "nama_project": "Project 01",
+            "list_kegiatan": [
+                        {
+                            "id": 0,
+                            "kegiatan": "Kegiatan 01"
+                        },
+                        {
+                            "id": 1,
+                            "kegiatan": "Kegiatan 01"
+                        },
+                        {
+                            "id": 2,
+                            "kegiatan": "Kegiatan 01"
+                        } 
+                            ] 
+        }
+    ]        
     
 }
