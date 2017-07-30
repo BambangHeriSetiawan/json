@@ -1,0 +1,25 @@
+{
+    "kode_kegiatan":[
+        {
+              "id": 0,
+            "kegiatan": "Repaire"
+            
+        },
+        {
+              "id": 1,
+            "kegiatan": "Re-occurence"
+        },
+        {
+              "id": 2,
+            "kegiatan": "Repaire Followup"
+        },
+        {
+             "id": 3,
+            "kegiatan": "Phone Fix"
+        },
+        {
+              "id": 4,
+            "kegiatan": "On Job Training"
+        }
+    ] 
+}

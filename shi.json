@@ -1,0 +1,17 @@
+{
+    "shi":[
+        {
+            "id": 0,
+            "shi": "Software"
+            
+        },
+        {
+            "id": 1,
+            "shi": "Hardware"
+        },
+        {
+            "id": 2,
+            "shi": "Interface"
+        }
+    ]
+}

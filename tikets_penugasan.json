@@ -1,5 +1,5 @@
 {
-    "tikets":[
+    "tikets_penugasan":[
         {
             "id": 0,
             "nama_customer": "Sample Name 1",
@@ -50,5 +50,5 @@
             "descripsiton": "This is just sample descripsion just for prototype purpose",
             "status": "Ended"
         }
-    ]  
+    ] 
 }

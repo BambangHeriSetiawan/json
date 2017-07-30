@@ -1,0 +1,25 @@
+{
+    "prioritys":[
+        {
+            "id": 0,
+            "priority": "low"
+            
+        },
+        {
+              "id": 1,
+         "priority": "midle"
+        },
+        {
+              "id": 2,
+             "priority": "high"
+        },
+        {
+            "id": 3,
+             "priority": "very high"
+        },
+        {
+              "id": 4,
+             "priority": "super high"
+        }
+    ]
+}
