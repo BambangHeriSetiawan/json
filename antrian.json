@@ -1,0 +1,137 @@
+{
+    
+    "data":  
+        [
+            {
+            "antrian":
+                [
+                    {
+                     "name": "FastTract",
+                     "dataAntrianPkb": [
+                         {
+                             "pkb": "PKB_01"
+                         },
+                         {
+                            "pkb": "PKB_02"
+                        },
+                        {
+                            "pkb": "PKB_03"
+                        },
+                        {
+                            "pkb": "PKB_04"
+                        },
+                        {
+                            "pkb": "PKB_05"
+                        }
+                     ]   
+                    },
+                    {
+                        "name": "OverHould",
+                        "dataAntrianPkb": [
+                            {
+                                "pkb": "PKB_01"
+                            },
+                            {
+                               "pkb": "PKB_02"
+                           },
+                           {
+                               "pkb": "PKB_03"
+                           },
+                           {
+                               "pkb": "PKB_04"
+                           },
+                           {
+                               "pkb": "PKB_05"
+                           }
+                        ]  
+                    },
+                    {
+                        "name": "Free",
+                        "dataAntrianPkb": [
+                            {
+                                "pkb": "PKB_01"
+                            },
+                            {
+                               "pkb": "PKB_02"
+                           },
+                           {
+                               "pkb": "PKB_03"
+                           },
+                           {
+                               "pkb": "PKB_04"
+                           },
+                           {
+                               "pkb": "PKB_05"
+                           }
+                        ]  
+                    }   
+                ]             
+            },
+            {
+                "pit":
+                    [
+                        {
+                         "name": "PIT A",
+                         "dataPitPkb": [
+                             {
+                                 "pkb": "PKB_01"
+                             },
+                             {
+                                "pkb": "PKB_02"
+                            },
+                            {
+                                "pkb": "PKB_03"
+                            },
+                            {
+                                "pkb": "PKB_04"
+                            },
+                            {
+                                "pkb": "PKB_05"
+                            }
+                         ]   
+                        },
+                        {
+                            "name": "PIT B",
+                            "dataPitPkb": [
+                                {
+                                    "pkb": "PKB_01"
+                                },
+                                {
+                                   "pkb": "PKB_02"
+                               },
+                               {
+                                   "pkb": "PKB_03"
+                               },
+                               {
+                                   "pkb": "PKB_04"
+                               },
+                               {
+                                   "pkb": "PKB_05"
+                               }
+                            ]  
+                        },
+                        {
+                            "name": "PIT C",
+                            "dataPitPkb": [
+                                {
+                                    "pkb": "PKB_01"
+                                },
+                                {
+                                   "pkb": "PKB_02"
+                               },
+                               {
+                                   "pkb": "PKB_03"
+                               },
+                               {
+                                   "pkb": "PKB_04"
+                               },
+                               {
+                                   "pkb": "PKB_05"
+                               }
+                            ]  
+                        }   
+                    ]             
+                }
+        ]
+         
+}
