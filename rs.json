@@ -366,7 +366,7 @@
     "Kelas": "none",
     "Rawat_Inap": "Tidak\n",
     "Pimpinan": "Dr. Wahrida Walie",
-    "Telpon": "-",
+    "Telpon": "0",
     "Latitude": "0.5120302",
     "Longitude": "101.4158286",
     "Tipe": "puskesmas"
@@ -402,7 +402,7 @@
     "Kelas": "none",
     "Rawat_Inap": "Ya\n",
     "Pimpinan": "Dr. Dian Astuti\n",
-    "Telpon": "-",
+    "Telpon": "0",
     "Latitude": "0.4699251",
     "Longitude": "101.4061502",
     "Tipe": "puskesmas"
@@ -438,7 +438,7 @@
     "Kelas": "none",
     "Rawat_Inap": "Tidak\n",
     "Pimpinan": "Dr. Evi Muchlis\n",
-    "Telpon": "-",
+    "Telpon": "0",
     "Latitude": "0.4875462",
     "Longitude": "101.4397018",
     "Tipe": "puskesmas"
@@ -450,8 +450,8 @@
     "Kelas": "none",
     "Rawat_Inap": "Ya",
     "Pimpinan": "Dr. Nurayuni Yusra\n",
-    "Telpon": "-",
-   "Latitude": "0",
+    "Telpon": "0",
+    "Latitude": "0",
     "Longitude": "0",
     "Tipe": "puskesmas"
   },
@@ -546,7 +546,7 @@
     "Kelas": "none",
     "Rawat_Inap": "Ya",
     "Pimpinan": "Dr. Vincen Tan\n",
-    "Telpon": "-",
+    "Telpon": "0",
     "Latitude": "0.62379",
     "Longitude": "101.42113",
     "Tipe": "puskesmas"
