@@ -362,7 +362,7 @@
         {
             "Nama": "Puskesmas Payung Sekaki",
             "Alamat": "Fajar-21 (Kec. Payung Sekaki)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Wahrida Walie",
             "Telpon": "0",
@@ -374,7 +374,7 @@
         {
             "Nama": "Puskesmas Simpang Baru",
             "Alamat": "Flamboyan-100 (Kec. Tampan)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Uvirda",
             "Telpon": "(0761) 63240",
@@ -386,7 +386,7 @@
         {
             "Nama": "Puskesmas Sidomulyo",
             "Alamat": "Raya Pekanbaru - Bangkinang",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Doris Uliana S",
             "Telpon": "(0761) 63170",
@@ -398,7 +398,7 @@
         {
             "Nama": "Puskesmas RI Sidomulyo",
             "Alamat": "Delima (Kec. Tampan)",
-            "Jenis": "Ya",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Dian Astuti",
             "Telpon": "0",
@@ -410,7 +410,7 @@
         {
             "Nama": "Puskesmas Harapan Raya",
             "Alamat": "Imam Munandar-40 (Kec. Bukit Raya)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Inda Wati",
             "Telpon": "(0761) 26326",
@@ -422,7 +422,7 @@
         {
             "Nama": "Puskesmas Simpang Tiga",
             "Alamat": "Kaharudin Nasution (Kec. Marpoyan)",
-            "Jenis": "Ya",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Leni Marzal",
             "Telpon": "(0761) 674763",
@@ -434,7 +434,7 @@
         {
             "Nama": "Puskesmas Garuda",
             "Alamat": "Garuda-12A (Kec. Marpoyan Damai)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Evi Muchlis",
             "Telpon": "0",
@@ -446,7 +446,7 @@
         {
             "Nama": "Puskesmas Tenayan Raya",
             "Alamat": "Budi Luhur (Kec. Tenayan Raya)",
-            "Jenis": "Ya",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Nurayuni Yusra",
             "Telpon": "0",
@@ -456,7 +456,7 @@
         {
             "Nama": "Puskesmas Rejosari",
             "Alamat": "Taman Sari-3 (Tenayan Riau)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Drg. Yerlina",
             "Telpon": "(0761) 42956",
@@ -468,7 +468,7 @@
         {
             "Nama": "Puskesmas Lima Puluh",
             "Alamat": "Sumber Sari-116 (Kec. Lima Puluh)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Iswadi, S.KM, M,KL",
             "Telpon": "(0761) 36436",
@@ -480,7 +480,7 @@
         {
             "Nama": "Puskesmas Sail",
             "Alamat": "Hang Jebat-15 (Kec. Sail)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Jenny Susantri.S.Farm, Apt",
             "Telpon": "(0761) 21640",
@@ -492,7 +492,7 @@
         {
             "Nama": "Puskesmas Pekanbaru Kota",
             "Alamat": "Sago (Kec. Pekanbaru Kota)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Armiyetti",
             "Telpon": "(0761) 8403001",
@@ -504,7 +504,7 @@
         {
             "Nama": "Puskesmas Langsat",
             "Alamat": "Langsat-1 (Kec. Sukajadi)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Drg. Harvandhy Anwir",
             "Telpon": "(0761) 21051",
@@ -516,7 +516,7 @@
         {
             "Nama": "Puskesmas Melur",
             "Alamat": "Melur-103 (Kec. Sukajadi)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Drg. Hidayani",
             "Telpon": "(0761) 22508",
@@ -528,7 +528,7 @@
         {
             "Nama": "Puskesmas Senapelan",
             "Alamat": "Jati-04 (Kec. Senapelan)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Drg. Maghdi Handoko",
             "Telpon": "(0761) 24707",
@@ -540,7 +540,7 @@
         {
             "Nama": "Puskesmas Muara Fajar",
             "Alamat": "Raya Pekabaru – Minas Km18 (Kec. Rumbai)",
-            "Jenis": "Ya",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Vincen Tan",
             "Telpon": "0",
@@ -552,7 +552,7 @@
         {
             "Nama": "Puskesmas Umban Sari",
             "Alamat": "Umban Sari (Kec. Rumbai)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "M.Napiri, S.KM, M.KL",
             "Telpon": "(0761) 51764",
@@ -564,7 +564,7 @@
         {
             "Nama": "Puskesmas Rumbai",
             "Alamat": "(Kec. Rumbai)",
-            "Jenis": "Tidak",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dince Syafriani, S.ST",
             "Telpon": "(0761) 53537",
@@ -576,7 +576,7 @@
         {
             "Nama": "Puskesmas Karya Wanita",
             "Alamat": "Gabus (Kec. Rumbai Pesisir)",
-            "Jenis": "Ya",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "Dr. Tengku Nur Insyiroh",
             "Telpon": "(0761) 53126",
@@ -732,6 +732,7 @@
         {
             "Nama": "Anzani",
             "Alamat": "Jl. Utama/Nenas No. 23 Pekanbaru",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "none",
             "Telpon": "none",
@@ -743,6 +744,7 @@
         {
             "Nama": "Arrabih",
             "Alamat": "Jl. Cendrawasih No. 27 Pekanbaru",
+            "Jenis": "none",
             "Kelas": "none",
             "Pimpinan": "none",
             "Telpon": "none",
