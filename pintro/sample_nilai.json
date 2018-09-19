@@ -1,0 +1,676 @@
+{
+    "dataNilai": [
+        {
+            "categorie_nilai": "Nilai Ulangan Harian",
+            "code": "",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/ulanganharian.png",
+            "pelajarans" :[
+                {
+                    "name": "Pendidikan Agama",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Biologi",
+                    "code": "biologi",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kimia",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kewarganegaraan",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fisika",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sosiologi",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Geografi",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categorie_nilai": "Nilai UTS",
+            "code": "",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/uts.png",
+            "pelajarans" :[
+                {
+                    "name": "Pendidikan Agama",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Biologi",
+                    "code": "biologi",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kimia",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kewarganegaraan",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fisika",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sosiologi",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Geografi",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categorie_nilai": "Nilai UAS",
+            "code": "",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/uas.png",
+            "pelajarans" :[
+                {
+                    "name": "Pendidikan Agama",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Biologi",
+                    "code": "biologi",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kimia",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kewarganegaraan",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fisika",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sosiologi",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Geografi",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categorie_nilai": "Nilai Raport",
+            "code": "",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/raport.png",
+            "pelajarans" :[
+                {
+                    "name": "Pendidikan Agama",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Biologi",
+                    "code": "biologi",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kimia",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kewarganegaraan",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fisika",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sosiologi",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Geografi",
+                    "code": "pagama",
+                    "rata_rata": "75",
+                    "nilai" : [
+                        {
+                            "name": "KKM",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        },
+                        {
+                            "name": "UH 1",
+                            "nilai": "80"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
