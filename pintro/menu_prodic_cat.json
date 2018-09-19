@@ -1,0 +1,123 @@
+{
+    "PintroMenu": [
+        {
+            "id": 1,
+            "name": "Makanan",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/makan.png",
+            "code": "PMB"
+            
+        },
+        {
+            "id": 1,
+            "name": "Minuman",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/minum.png",
+            "code": "DFL"
+            
+        },
+        {
+            "id": 1,
+            "name": "Kecantikan",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kecantikan_icon.png",
+            "code": "PAY"
+            
+        },
+        {
+            "id": 1,
+            "name": "Fashin Wanita",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/fashion_wanita.png",
+            "code": "ULPR"
+            
+        },
+        {
+            "id": 1,
+            "name": "Dapur",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/dapur.png",
+            "code": "NL"
+            
+        },
+        {
+            "id": 1,
+            "name": "Buku",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/book_icon.png",
+            "code": "ABS"
+            
+        },
+        {
+            "id": 1,
+            "name": "Stationery",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/stationery.png",
+            "code": "JDWL"
+            
+        },
+        {
+            "id": 1,
+            "name": "Pakaian Sekolah",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/uniform.png",
+            "code": "RWPM"
+            
+        },
+        {
+            "id": 1,
+            "name": "Kamera",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/camera.png",
+            "code": "BYSKL"
+            
+        },
+        {
+            "id": 1,
+            "name": "Kesehatan",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/medicine.png",
+            "code": "CAL"
+            
+        },
+        {
+            "id": 1,
+            "name": "Elektronik",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/elektronik.png",
+            "code": "INF"
+            
+        },
+        {
+            "id": 1,
+            "name": "Gaming",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/console.png",
+            "code": "INF"
+            
+        },
+        {
+            "id": 1,
+            "name": "Ibu & Bayi",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/mom_baby.png",
+            "code": "INF"
+            
+        },
+        {
+            "id": 1,
+            "name": "Olahraga",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/basketball.png",
+            "code": "INF"
+            
+        },
+        {
+            "id": 1,
+            "name": "Fashin Muslim",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/fashion_wanita.png",
+            "code": "INF"
+            
+        },
+        {
+            "id": 1,
+            "name": "Souvenir & Kado",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/souvenir.png",
+            "code": "INF"
+            
+        },
+        {
+            "id": 1,
+            "name": "Produk Lainnya",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/other_product.png",
+            "code": "INF"
+            
+        }
+    ]
+}

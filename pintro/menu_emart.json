@@ -1,0 +1,60 @@
+{
+    "PintroMenu": [
+        {
+            "id": 1,
+            "name": "MAKANAN",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/daging.png",
+            "code": "MKN"
+            
+        },
+        {
+            "id": 1,
+            "name": "MINUMAN",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/minuman.png",
+            "code": "MNM"
+            
+        },
+        {
+            "id": 1,
+            "name": "KECANTIKAN",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kecantikan.png",
+            "code": "KCK"
+            
+        },
+        {
+            "id": 1,
+            "name": "FASHION",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/fashion.png",
+            "code": "FSH"
+            
+        },
+        {
+            "id": 1,
+            "name": "DAPUR",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/menu_recipe_2.png",
+            "code": "DPR"
+            
+        },
+        {
+            "id": 1,
+            "name": "BUKU",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/book.png",
+            "code": "BOK"
+            
+        },
+        {
+            "id": 1,
+            "name": "PAKAIAN SEKOLAH",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/seragam_sekolah.png",
+            "code": "SCH"
+            
+        },
+        {
+            "id": 1,
+            "name": "STATIONARY",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/stationeri.png",
+            "code": "STS"
+            
+        }
+    ]
+}

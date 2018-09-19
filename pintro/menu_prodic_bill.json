@@ -1,0 +1,81 @@
+{
+    "PintroMenu": [
+        {
+            "id": 1,
+            "name": "Pulsa",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/smartphone.png",
+            "code": "PMB"
+            
+        },
+        {
+            "id": 1,
+            "name": "Listrik",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/pln.png",
+            "code": "DFL"
+            
+        },
+        {
+            "id": 1,
+            "name": "BPJS",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/bpjs.png",
+            "code": "DFL"
+            
+        },
+        {
+            "id": 1,
+            "name": "Pasca Bayar",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/smartphone_pasca.png",
+            "code": "PAY"
+            
+        },
+        {
+            "id": 1,
+            "name": "TV Kabel",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/tv_kabel.png",
+            "code": "ULPR"
+            
+        },
+        {
+            "id": 1,
+            "name": "Streaming",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/streaming.png",
+            "code": "NL"
+            
+        },
+        {
+            "id": 1,
+            "name": "Angsuran Kredit",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/angsuran_kredit.png",
+            "code": "ABS"
+            
+        },
+        {
+            "id": 1,
+            "name": "Tagihan Kartu Kredit",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/angsuran_kredit.png",
+            "code": "JDWL"
+            
+        },
+        {
+            "id": 1,
+            "name": "PDAM",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/pdam.png",
+            "code": "RWPM"
+            
+        },
+        {
+            "id": 1,
+            "name": "Paket Data",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/paket_data.png",
+            "code": "BYSKL"
+            
+        },
+        {
+            "id": 1,
+            "name": "Telekom",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/telekom.png",
+            "code": "CAL"
+            
+        }
+    ]
+}

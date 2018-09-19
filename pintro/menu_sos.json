@@ -1,0 +1,46 @@
+{
+    "PintroMenu": [
+        {
+            "id": 1,
+            "name": "DONASI",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/donasi.png",
+            "code": "PMB"
+            
+        },
+        {
+            "id": 1,
+            "name": "ZAKAT",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/zakat.png",
+            "code": "DFL"
+            
+        },
+        {
+            "id": 1,
+            "name": "AQIQAH",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/aqiqah.png",
+            "code": "PAY"
+            
+        },
+        {
+            "id": 1,
+            "name": "UMRAH",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/umroh.png",
+            "code": "ULPR"
+            
+        },
+        {
+            "id": 1,
+            "name": "HAJI",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/haji.png",
+            "code": "NL"
+            
+        },
+        {
+            "id": 1,
+            "name": "TRAVEL WISATA",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/travel_wisata.png",
+            "code": "ABS"
+            
+        }
+    ]
+}
