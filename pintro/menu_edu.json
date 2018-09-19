@@ -1,0 +1,88 @@
+{
+    "PintroMenu": [
+        {
+            "id": 1,
+            "name": "PMB",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/pmb.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Daftar Ulang",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/daftarulang.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Pembayaran",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/spp.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Ulangan & PR",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/ulanganpr.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Nilai",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/nilai.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Absensi",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/absensi.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Jadwal",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kalender.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Riwayat",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/riwayatpembayaran.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Biaya Sekolah",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/biayasekolah.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Kalender",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kalender.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Info & Berita",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/info.png",
+            "code": "pmb"
+            
+        },
+        {
+            "id": 1,
+            "name": "Konseling",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/konseling.png",
+            "code": "pmb"
+            
+        }
+    ]
+}
