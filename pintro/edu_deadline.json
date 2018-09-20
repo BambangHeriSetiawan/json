@@ -1,0 +1,19 @@
+{
+    "headline_edu": [
+        {
+            "id": "",
+            "title": " ",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_1.png"
+        },
+        {
+            "id": "",
+            "title": " ",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_2.png"
+        },
+        {
+            "id": "",
+            "title": " ",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_3.png"
+        }
+    ]
+}
