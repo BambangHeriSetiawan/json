@@ -1,0 +1,73 @@
+{
+    "data": {
+      "profile": {
+        "full_name": "  ",
+        "first_name": "",
+        "last_name": "",
+        "alias": "",
+        "email": "",
+        "social_account": [
+          {
+            "account_type": "",
+            "account_username": "",
+            "account_url": "",
+            "account_icon": ""
+          }
+        ]
+      },
+      "education": [
+        {
+          "education_title": "",
+          "education_school_name": "",
+          "education_year_in": "",
+          "education_year_out": "",
+          "education_majors": "",
+          "education_grade": ""
+        }
+      ],
+      "skills": [
+        {
+          "skill_name": "",
+          "skill_icon": "",
+          "skill_grade": 3.5
+        }
+      ],
+      "experience": [
+        {
+          "experience_job_title": "",
+          "experience_company": {
+            "company_name": "",
+            "company_address": "",
+            "company_website": "",
+            "company_field": "",
+            "current_working ": false
+          },
+          "experience_long": "",
+          "experience_jobdesc": ""
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "",
+          "project_desc": "",
+          "project_framework": "",
+          "project_stardate": "",
+          "project_enddate": "",
+          "project_team": [
+            {
+              "dev_name": "",
+              "dev_field": ""
+            }
+          ],
+          "project_images": [
+            {
+              "image_name": "",
+              "image_url": ""
+            }
+          ],
+          "project_app_url": "",
+          "project_web_url": ""
+        }
+      ]
+    }
+  }
