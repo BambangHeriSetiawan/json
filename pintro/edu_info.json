@@ -1,0 +1,25 @@
+{
+	"news" : [
+		{
+			"id":"",
+			"title":"Ekskul Menari Tampil Perdana",
+			"desc":"Al Azhar Yogyakarta Sekolah Sehat Bebas Narkoba",
+			"image":"https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/image_kskul.jpg",
+			"data":"15 Juli  2018"
+		},
+		{
+			"id":"",
+			"title":"Al Azhar Yogyakarta Sekolah Sehat Bebas Narkoba",
+			"desc":"Al Azhar Yogyakarta Sekolah Sehat Bebas Narkoba",
+			"image":"https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/image_al.jpg",
+			"data":"Periode 2 Juni - 15 Juli  2018"
+		},
+		{
+			"id":"",
+			"title":"Alhamdulillah SMAIA 9 & SDIA 13 Yk Mendapat Nilai A",
+			"desc":"Al Azhar Yogyakarta Sekolah Sehat Bebas Narkoba",
+			"image":"https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/image_alhamdulillah.jpg",
+			"data":"Periode 2 Juni - 15 Juli  2018"
+		}
+	]
+}
