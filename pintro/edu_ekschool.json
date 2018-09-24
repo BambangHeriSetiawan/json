@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "name": "PRAMUKA",
+            "desc": "Tujuan dari Ekskul Pramuka ini adalah Melatih kedisiplinan dan kemamdirian, Melatih kerjasama antar tim, Menumbuhkan semangat cinta tanah air,  Mempererat persahabatan antar anggota",
+            "place": "",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/sample_eks.jpg",
+            "price": 0,
+            "startdate": "",
+            "enddate": ""
+        },
+        {
+            "name": "MADING",
+            "desc": "Tujuan dari Ekskul Pramuka ini adalah Melatih kedisiplinan dan kemamdirian, Melatih kerjasama antar tim, Menumbuhkan semangat cinta tanah air,  Mempererat persahabatan antar anggota",
+            "startdate": "",
+            "place": "",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/sample_eks.jpg",
+            "quota": 100,
+            "price": 100,
+            "enddate": ""
+        },
+        {
+            "name": "MARAWIS",
+            "desc": "Tujuan dari Ekskul Pramuka ini adalah Melatih kedisiplinan dan kemamdirian, Melatih kerjasama antar tim, Menumbuhkan semangat cinta tanah air,  Mempererat persahabatan antar anggota",
+            "startdate": "",
+            "place": "",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/sample_eks.jpg",
+            "quota": 100,
+            "price": 100,
+            "enddate": ""
+        },
+        {
+            "name": "PMR MULA/DOKCIL",
+            "desc": "Tujuan dari Ekskul Pramuka ini adalah Melatih kedisiplinan dan kemamdirian, Melatih kerjasama antar tim, Menumbuhkan semangat cinta tanah air,  Mempererat persahabatan antar anggota",
+            "startdate": "",
+            "place": "",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/sample_eks.jpg",
+            "quota": 100,
+            "price": 100,
+            "enddate": ""
+        },
+        {
+            "name": "MELUKIS dan MEWARNAI",
+            "desc": "Tujuan dari Ekskul Pramuka ini adalah Melatih kedisiplinan dan kemamdirian, Melatih kerjasama antar tim, Menumbuhkan semangat cinta tanah air,  Mempererat persahabatan antar anggota",
+            "startdate": "",
+            "place": "",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/sample_eks.jpg",
+            "quota": 100,
+            "price": 100,
+            "enddate": ""
+        }
+    ]
+}
