@@ -1,0 +1,19 @@
+{
+    "wisatas": [
+        {
+            "id": "",
+            "title": "Jepang 7D6N",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/japan.png"
+        },
+        {
+            "id": "",
+            "title": "Korea 5D4N",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/korea.png"
+        },
+        {
+            "id": "",
+            "title": "Eropa 8D7N",
+            "image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/eropa.png"
+        }
+    ]
+}
