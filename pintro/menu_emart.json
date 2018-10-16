@@ -3,21 +3,21 @@
         {
             "id": 1,
             "name": "MAKANAN",
-            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/daging.png",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/daging.jpg",
             "code": "MKN"
             
         },
         {
             "id": 1,
             "name": "MINUMAN",
-            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/minuman.png",
+            "icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/minuman.jpg",
             "code": "MNM"
             
         },
         {
             "id": 1,
             "name": "KECANTIKAN",
-            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kecantikan.png",
+            "icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/kecantikan.jpg",
             "code": "KCK"
             
         },
@@ -31,28 +31,28 @@
         {
             "id": 1,
             "name": "DAPUR",
-            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/menu_recipe_2.png",
+            "icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/menu_recipe_2.jpg",
             "code": "DPR"
             
         },
         {
             "id": 1,
             "name": "BUKU",
-            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/book.png",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/book.jpeg",
             "code": "BOK"
             
         },
         {
             "id": 1,
             "name": "PAKAIAN SEKOLAH",
-            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/seragam_sekolah.png",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/seragam_sekolah.jpg",
             "code": "SCH"
             
         },
         {
             "id": 1,
             "name": "STATIONARY",
-            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/stationeri.png",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/stationeri.jpg",
             "code": "STS"
             
         }
