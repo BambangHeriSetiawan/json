@@ -9,9 +9,9 @@
         },
         {
             "id": 1,
-            "name": "Biaya Sekolah",
+            "name": "Seleksi",
             "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/biayasekolah.png",
-            "code": "BYSKL"
+            "code": "SLKSI"
             
         },
         {
