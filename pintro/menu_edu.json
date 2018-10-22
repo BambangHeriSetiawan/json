@@ -9,6 +9,13 @@
         },
         {
             "id": 1,
+            "name": "Biaya Sekolah",
+            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/biayasekolah.png",
+            "code": "BYSKL"
+            
+        },
+        {
+            "id": 1,
             "name": "Daftar Ulang",
             "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/daftarulang.png",
             "code": "DFL"
@@ -56,13 +63,7 @@
             "code": "RWPM"
             
         },
-        {
-            "id": 1,
-            "name": "Biaya Sekolah",
-            "icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/biayasekolah.png",
-            "code": "BYSKL"
-            
-        },
+        
         {
             "id": 1,
             "name": "Kalender",
