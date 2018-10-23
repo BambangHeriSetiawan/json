@@ -1,0 +1,485 @@
+{
+ 	"headline": [{
+ 			"id": "",
+ 			"title": " ",
+ 			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_1.png",
+ 			"type": "edu"
+ 		},
+ 		{
+ 			"id": "",
+ 			"title": " ",
+ 			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_2.png",
+ 			"type": "edu"
+ 		},
+ 		{
+ 			"id": "",
+ 			"title": " ",
+ 			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_3.png",
+ 			"type": "edu"
+ 		},
+ 		{
+ 			"id": "",
+ 			"title": " ",
+ 			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_1.png",
+ 			"type": "emart"
+ 		},
+ 		{
+ 			"id": "",
+ 			"title": " ",
+ 			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_2.png",
+ 			"type": "emart"
+ 		},
+ 		{
+ 			"id": "",
+ 			"title": " ",
+ 			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_1.jpg",
+ 			"type": "sos"
+ 		},
+ 		{
+ 			"id": "",
+ 			"title": " ",
+ 			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_2.jpg",
+ 			"type": "sos"
+ 		},
+ 		{
+ 			"id": "",
+ 			"title": " ",
+ 			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_2.jpg",
+ 			"type": "sos"
+ 		}
+ 	],
+ 	"menu": [{
+ 			"id": 1,
+ 			"name": "PMB",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/pmb.png",
+ 			"code": "PMB",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Seleksi",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/biayasekolah.png",
+ 			"code": "SLKSI",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Daftar Ulang",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/daftarulang.png",
+ 			"code": "DFL",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Pembayaran",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/spp.png",
+ 			"code": "PAY",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Ulangan & PR",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/ulanganpr.png",
+ 			"code": "ULPR",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Nilai",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/nilai.png",
+ 			"code": "NL",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Absensi",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/absensi.png",
+ 			"code": "ABS",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Jadwal",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kalender.png",
+ 			"code": "JDWL",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Riwayat",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/riwayatpembayaran.png",
+ 			"code": "RWPM",
+ 			"type": "edu"
+
+ 		},
+
+ 		{
+ 			"id": 1,
+ 			"name": "Kalender",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kalender.png",
+ 			"code": "CAL",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Info & Berita",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/info.png",
+ 			"code": "INF",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Konseling",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/konseling.png",
+ 			"code": "KON",
+ 			"type": "edu"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "DONASI",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/donasi.png",
+ 			"code": "PMB",
+ 			"type": "sos"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "ZAKAT",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/zakat.png",
+ 			"code": "DFL",
+ 			"type": "sos"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "AQIQAH",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/aqiqah.png",
+ 			"code": "PAY",
+ 			"type": "sos"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "UMRAH",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/umroh.png",
+ 			"code": "ULPR",
+ 			"type": "sos"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "HAJI",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/haji.png",
+ 			"code": "NL",
+ 			"type": "sos"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "TRAVEL WISATA",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/travel_wisata.png",
+ 			"code": "ABS",
+ 			"type": "sos"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "MAKANAN",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/daging.jpg",
+ 			"code": "MKN",
+ 			"type": "mart"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "MINUMAN",
+ 			"icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/minuman.jpg",
+ 			"code": "MNM",
+ 			"type": "mart"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "KECANTIKAN",
+ 			"icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/kecantikan.jpg",
+ 			"code": "KCK",
+ 			"type": "mart"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "FASHION",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/fashion.jpg",
+ 			"code": "FSH",
+ 			"type": "mart"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "DAPUR",
+ 			"icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/menu_recipe_2.jpg",
+ 			"code": "DPR",
+ 			"type": "mart"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "BUKU",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/book.jpeg",
+ 			"code": "BOK",
+ 			"type": "mart"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "PAKAIAN SEKOLAH",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/seragam_sekolah.jpg",
+ 			"code": "SCH",
+ 			"type": "mart"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "STATIONARY",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/stationeri.jpg",
+ 			"code": "STS",
+ 			"type": "mart"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Pulsa",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/smartphone.png",
+ 			"code": "PLS",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Listrik",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/pln.png",
+ 			"code": "LSTR",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "BPJS",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/bpjs.png",
+ 			"code": "BPJS",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Pasca Bayar",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/smartphone_pasca.png",
+ 			"code": "PSCA",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "TV Kabel",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/tv_kabel.png",
+ 			"code": "TVKBL",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Streaming",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/streaming.png",
+ 			"code": "STRMG",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Angsuran Kredit",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/angsuran_kredit.png",
+ 			"code": "ANGSRN",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Tagihan Kartu Kredit",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/angsuran_kredit.png",
+ 			"code": "TAGHN",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "PDAM",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/pdam.png",
+ 			"code": "PDAM",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Paket Data",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/paket_data.png",
+ 			"code": "PKTDTA",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Telekom",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/telekom.png",
+ 			"code": "TELKM",
+ 			"type": "prodic_bill"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Makanan",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/makan.png",
+ 			"code": "MKN",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Minuman",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/minum.png",
+ 			"code": "MNM",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Kecantikan",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kecantikan_icon.png",
+ 			"code": "KCNTKN",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Fashin Wanita",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/fashion_wanita.png",
+ 			"code": "FSH",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Dapur",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/dapur.png",
+ 			"code": "DPR",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Buku",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/book_icon.png",
+ 			"code": "BOOK",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Stationery",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/stationery.png",
+ 			"code": "STSNRY",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Pakaian Sekolah",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/uniform.png",
+ 			"code": "PKNSCH",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Kamera",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/camera.png",
+ 			"code": "KMR",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Kesehatan",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/medicine.png",
+ 			"code": "KESE",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Elektronik",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/elektronik.png",
+ 			"code": "ELECT",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Gaming",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/console.png",
+ 			"code": "GAME",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Ibu & Bayi",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/mom_baby.png",
+ 			"code": "BOMBABY",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "prodic_cat",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/basketball.png",
+ 			"code": "SPORT",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Fashin Muslim",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/fashion_wanita.png",
+ 			"code": "FSHNMSLM",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Souvenir & Kado",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/souvenir.png",
+ 			"code": "SVN",
+ 			"type": "prodic_cat"
+
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Produk Lainnya",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/other_product.png",
+ 			"code": "DLL",
+ 			"type": "prodic_cat"
+
+ 		}
+ 	]
+ }
