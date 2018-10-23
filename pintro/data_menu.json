@@ -1,48 +1,48 @@
 { "data": {
  	"headline": [{
- 			"id": "",
+ 			"id": 1,
  			"title": " ",
  			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_1.png",
  			"type": "edu"
  		},
  		{
- 			"id": "",
+ 			"id": 2,
  			"title": " ",
  			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_2.png",
  			"type": "edu"
  		},
  		{
- 			"id": "",
+ 			"id": 3,
  			"title": " ",
  			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_3.png",
  			"type": "edu"
  		},
  		{
- 			"id": "",
+ 			"id": 4,
  			"title": " ",
  			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_1.png",
  			"type": "emart"
  		},
  		{
- 			"id": "",
+ 			"id": 5,
  			"title": " ",
  			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_2.png",
  			"type": "emart"
  		},
  		{
- 			"id": "",
+ 			"id": 6,
  			"title": " ",
  			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_1.jpg",
  			"type": "sos"
  		},
  		{
- 			"id": "",
+ 			"id": 7,
  			"title": " ",
  			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_2.jpg",
  			"type": "sos"
  		},
  		{
- 			"id": "",
+ 			"id": 8,
  			"title": " ",
  			"image": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/header_sosial_2.jpg",
  			"type": "sos"
@@ -57,7 +57,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 2,
  			"name": "Seleksi",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/biayasekolah.png",
  			"code": "SLKSI",
@@ -65,7 +65,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 3,
  			"name": "Daftar Ulang",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/daftarulang.png",
  			"code": "DFL",
@@ -73,7 +73,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 4,
  			"name": "Pembayaran",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/spp.png",
  			"code": "PAY",
@@ -81,7 +81,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 5,
  			"name": "Ulangan & PR",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/ulanganpr.png",
  			"code": "ULPR",
@@ -89,7 +89,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 6,
  			"name": "Nilai",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/nilai.png",
  			"code": "NL",
@@ -97,7 +97,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 7,
  			"name": "Absensi",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/absensi.png",
  			"code": "ABS",
@@ -105,7 +105,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 8,
  			"name": "Jadwal",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kalender.png",
  			"code": "JDWL",
@@ -113,7 +113,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 9,
  			"name": "Riwayat",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/riwayatpembayaran.png",
  			"code": "RWPM",
@@ -122,7 +122,7 @@
  		},
 
  		{
- 			"id": 1,
+ 			"id": 10,
  			"name": "Kalender",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kalender.png",
  			"code": "CAL",
@@ -130,7 +130,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 11,
  			"name": "Info & Berita",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/info.png",
  			"code": "INF",
@@ -138,7 +138,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 12,
  			"name": "Konseling",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/konseling.png",
  			"code": "KON",
@@ -146,7 +146,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 13,
  			"name": "DONASI",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/donasi.png",
  			"code": "PMB",
@@ -154,7 +154,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 14,
  			"name": "ZAKAT",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/zakat.png",
  			"code": "DFL",
@@ -162,7 +162,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 15,
  			"name": "AQIQAH",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/aqiqah.png",
  			"code": "PAY",
@@ -170,7 +170,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 16,
  			"name": "UMRAH",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/umroh.png",
  			"code": "ULPR",
@@ -178,7 +178,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 17,
  			"name": "HAJI",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/haji.png",
  			"code": "NL",
@@ -186,7 +186,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 18,
  			"name": "TRAVEL WISATA",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/travel_wisata.png",
  			"code": "ABS",
@@ -194,7 +194,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 19,
  			"name": "MAKANAN",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/daging.jpg",
  			"code": "MKN",
@@ -202,7 +202,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 20,
  			"name": "MINUMAN",
  			"icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/minuman.jpg",
  			"code": "MNM",
@@ -210,7 +210,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 21,
  			"name": "KECANTIKAN",
  			"icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/kecantikan.jpg",
  			"code": "KCK",
@@ -218,7 +218,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 22,
  			"name": "FASHION",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/fashion.jpg",
  			"code": "FSH",
@@ -226,7 +226,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 23,
  			"name": "DAPUR",
  			"icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/menu_recipe_2.jpg",
  			"code": "DPR",
@@ -234,7 +234,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 24,
  			"name": "BUKU",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/book.jpeg",
  			"code": "BOK",
@@ -242,7 +242,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 25,
  			"name": "PAKAIAN SEKOLAH",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/seragam_sekolah.jpg",
  			"code": "SCH",
@@ -250,7 +250,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 26,
  			"name": "STATIONARY",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/stationeri.jpg",
  			"code": "STS",
@@ -258,7 +258,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 27,
  			"name": "Pulsa",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/smartphone.png",
  			"code": "PLS",
@@ -266,7 +266,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 28,
  			"name": "Listrik",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/pln.png",
  			"code": "LSTR",
@@ -274,7 +274,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 29,
  			"name": "BPJS",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/bpjs.png",
  			"code": "BPJS",
@@ -282,7 +282,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 30,
  			"name": "Pasca Bayar",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/smartphone_pasca.png",
  			"code": "PSCA",
@@ -290,7 +290,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 31,
  			"name": "TV Kabel",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/tv_kabel.png",
  			"code": "TVKBL",
@@ -298,7 +298,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 32,
  			"name": "Streaming",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/streaming.png",
  			"code": "STRMG",
@@ -306,7 +306,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 33,
  			"name": "Angsuran Kredit",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/angsuran_kredit.png",
  			"code": "ANGSRN",
@@ -314,7 +314,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 34,
  			"name": "Tagihan Kartu Kredit",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/angsuran_kredit.png",
  			"code": "TAGHN",
@@ -322,7 +322,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 35,
  			"name": "PDAM",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/pdam.png",
  			"code": "PDAM",
@@ -330,7 +330,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 36,
  			"name": "Paket Data",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/paket_data.png",
  			"code": "PKTDTA",
@@ -338,7 +338,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 37,
  			"name": "Telekom",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/telekom.png",
  			"code": "TELKM",
@@ -346,7 +346,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 38,
  			"name": "Makanan",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/makan.png",
  			"code": "MKN",
@@ -354,7 +354,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 39,
  			"name": "Minuman",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/minum.png",
  			"code": "MNM",
@@ -362,7 +362,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 40,
  			"name": "Kecantikan",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kecantikan_icon.png",
  			"code": "KCNTKN",
@@ -370,7 +370,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 41,
  			"name": "Fashin Wanita",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/fashion_wanita.png",
  			"code": "FSH",
@@ -378,7 +378,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 42,
  			"name": "Dapur",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/dapur.png",
  			"code": "DPR",
@@ -386,7 +386,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 43,
  			"name": "Buku",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/book_icon.png",
  			"code": "BOOK",
@@ -394,7 +394,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 44,
  			"name": "Stationery",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/stationery.png",
  			"code": "STSNRY",
@@ -402,7 +402,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 45,
  			"name": "Pakaian Sekolah",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/uniform.png",
  			"code": "PKNSCH",
@@ -410,7 +410,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 46,
  			"name": "Kamera",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/camera.png",
  			"code": "KMR",
@@ -418,7 +418,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 47,
  			"name": "Kesehatan",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/medicine.png",
  			"code": "KESE",
@@ -426,7 +426,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 48,
  			"name": "Elektronik",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/elektronik.png",
  			"code": "ELECT",
@@ -434,7 +434,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 49,
  			"name": "Gaming",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/console.png",
  			"code": "GAME",
@@ -442,7 +442,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 50,
  			"name": "Ibu & Bayi",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/mom_baby.png",
  			"code": "BOMBABY",
@@ -450,7 +450,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 51,
  			"name": "prodic_cat",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/basketball.png",
  			"code": "SPORT",
@@ -458,7 +458,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 52,
  			"name": "Fashin Muslim",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/fashion_wanita.png",
  			"code": "FSHNMSLM",
@@ -466,7 +466,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 53,
  			"name": "Souvenir & Kado",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/souvenir.png",
  			"code": "SVN",
@@ -474,7 +474,7 @@
 
  		},
  		{
- 			"id": 1,
+ 			"id": 54,
  			"name": "Produk Lainnya",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/other_product.png",
  			"code": "DLL",
