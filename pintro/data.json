@@ -48,7 +48,7 @@
  			"type": "sos"
  		}
  	],
- 	"menu_pintro": [{
+ 	"menu": [{
  			"id": 1,
  			"name": "PMB",
  			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/pmb.png",
