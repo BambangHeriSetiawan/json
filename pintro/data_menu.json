@@ -204,7 +204,7 @@
  		{
  			"id": 20,
  			"name": "MINUMAN",
- 			"icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/minuman.jpg",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/minuman.jpg",
  			"code": "MNM",
  			"type": "mart"
 
@@ -212,7 +212,7 @@
  		{
  			"id": 21,
  			"name": "KECANTIKAN",
- 			"icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/kecantikan.jpg",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/kecantikan.jpg",
  			"code": "KCK",
  			"type": "mart"
 
@@ -228,7 +228,7 @@
  		{
  			"id": 23,
  			"name": "DAPUR",
- 			"icon": "https://github.com/BambangHeriSetiawan/json/blob/master/pintro/image/menu_recipe_2.jpg",
+ 			"icon": "https://raw.githubusercontent.com/BambangHeriSetiawan/json/master/pintro/image/menu_recipe_2.jpg",
  			"code": "DPR",
  			"type": "mart"
 
